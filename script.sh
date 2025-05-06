@@ -18,5 +18,5 @@ docker run -d -p 8090:8090 --name samrun sample
 
 echo "----------------------------------------"
 echo "¡Despliegue exitoso!"
-echo "Accede a: http://$(curl -s ifconfig.me):8080"
-echo "
+echo "Accede a: http://$(curl -s ifconfig.me):8090"
+echo "----------------------------------------"
